@@ -6,9 +6,11 @@ Welcome to the "interview_questions_for_candidates" folder! This folder contains
 
 1. [**Questions.md**](Questions.md): This Markdown file contains a comprehensive list of interview questions for candidates. Feel free to explore and use these questions as a guide during your job search journey.
 
+2. [**Additional_Questions.md**](Additional_Questions.md): This supplementary Markdown file provides additional interview questions covering various topics related to the company's operations, culture, and strategic direction.
+
 ## How to Use This Folder
 
-Explore the contents of this folder to access the interview questions provided. You can download or view the "Questions.md" file to access the curated list of questions. Use these questions as a reference during your interview preparation to ensure you gather comprehensive information about the job and the company.
+Explore the contents of this folder to access the interview questions provided. You can download or view the "Questions.md" and "Additional_Questions.md" files to access the curated lists of questions. Use these questions as a reference during your interview preparation to ensure you gather comprehensive information about the job and the company.
 
 ## Contributing
 
