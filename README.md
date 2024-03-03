@@ -8,6 +8,10 @@ Welcome to the Job Search Guide repository! This repository serves as a comprehe
 
 2. [**Additional_Questions.md**](interview_questions_for_candidates/Additional_Questions.md): This supplementary Markdown file provides additional interview questions covering various topics related to the company's operations, culture, and strategic direction.
 
+## Roadmap
+
+Explore our [Roadmap](Roadmap/Roadmap.md) to track the progress of planned features and resources for the Job Search Guide repository. The roadmap provides an overview of planned features, their current status, and how you can contribute to their development.
+
 ## How to Use This Repository
 
 Feel free to explore the contents of this repository to access the resources and information provided. You can download or clone the repository to your local machine to access the files.
