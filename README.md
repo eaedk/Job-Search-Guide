@@ -4,9 +4,10 @@ Welcome to the Job Search Guide repository! This repository serves as a comprehe
 
 ## Repository Contents
 
-1. [**Questions.md**](interview_questions_for_candidates/Questions.md): This Markdown file contains a curated list of insightful questions to ask during job interviews. These questions are designed to help you gather essential information about the role, company culture, opportunities for growth, and more.
+1. [**Questions.md**](interview_questions_for_candidates/Questions.md): This Markdown file contains a curated list of insightful questions for candidates to ask during job interviews. These questions are designed to help candidates gather essential information about the role, company culture, opportunities for growth, and more.
 
-2. [**Additional_Questions.md**](interview_questions_for_candidates/Additional_Questions.md): This supplementary Markdown file provides additional interview questions covering various topics related to the company's operations, culture, and strategic direction.
+2. [**Additional_Questions.md**](interview_questions_for_candidates/Additional_Questions.md): This supplementary Markdown file provides additional interview questions for candidates to ask during job interviews. These questions cover various topics related to the company's operations, culture, and strategic direction, allowing candidates to gain deeper insights into the organization.
+
 
 ## Roadmap
 
