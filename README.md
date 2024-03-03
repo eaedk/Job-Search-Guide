@@ -10,7 +10,7 @@ Welcome to the Job Search Guide repository! This repository serves as a comprehe
 
 ## Roadmap
 
-Explore our [Roadmap](Roadmap.md) to track the progress of planned features and resources for the Job Search Guide repository. The roadmap provides an overview of planned features, their current status, and how you can contribute to their development.
+Explore our [Roadmap](Roadmap/Roadmap.md) to track the progress of planned features and resources for the Job Search Guide repository. The roadmap provides an overview of planned features, their current status, and how you can contribute to their development.
 
 ## How to Use This Repository
 
